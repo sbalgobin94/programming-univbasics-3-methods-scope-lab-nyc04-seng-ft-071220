@@ -8,5 +8,7 @@ def toadstool
  puts status
 end
 
-mario
-toadstool
+def link
+  linkp = "It's Dangerous To Go Alone! Take This."
+  puts linkp
+end
