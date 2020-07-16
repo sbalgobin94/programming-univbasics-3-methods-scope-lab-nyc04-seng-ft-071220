@@ -15,10 +15,10 @@ end
 
 def all_phrases
   mario
-  toadstool
-  link
   puts phrase
+  toadstool
   puts status
+  link
   puts linkp
 end
 
