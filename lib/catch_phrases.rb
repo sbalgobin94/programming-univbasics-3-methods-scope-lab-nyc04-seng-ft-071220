@@ -12,3 +12,12 @@ def link
   linkp = "It's Dangerous To Go Alone! Take This."
   puts linkp
 end
+
+def all_phrases
+  mario
+  toadstool
+  link
+  puts phrase
+  puts status
+  puts linkp
+end
