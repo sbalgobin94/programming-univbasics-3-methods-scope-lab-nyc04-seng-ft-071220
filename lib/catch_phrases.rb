@@ -21,3 +21,5 @@ def all_phrases
   puts status
   puts linkp
 end
+
+all_phrases
